@@ -16,7 +16,7 @@ This application is designed to offer a user-friendly interface for learners to 
 
 ## Deployment on AWS Fargate
 
-This Django application is deployed using AWS Fargate. Fargate makes it easy for you to focus on building your applications, as it removes the need to provision and manage servers. We have used various AWS EC2 resources such as VPC, subnets, and security groups to run a custom AWS instance.
+This Django application is deployed using AWS Fargate. Fargate makes it easy for me to focus on building my applications, as it removes the need to provision and manage servers. I have used various AWS EC2 resources such as VPC, subnets, and security groups to run a custom AWS instance.
 
 ![Deployment Overview](https://github.com/emuacat/Front-End-learning-Website-Using-Django/blob/main/mysite/development%20.avif)
 
