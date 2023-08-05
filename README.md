@@ -20,11 +20,11 @@ This Django application is deployed using AWS Fargate. Fargate makes it easy for
 
 ![Deployment Overview](https://github.com/emuacat/Front-End-learning-Website-Using-Django/blob/main/mysite/development%20.avif)
 
-To run this application in your AWS account, follow the instructions mentioned in the deployment guide.
+
 
 ## Contributing
 
-This is an open-source project, and we welcome contributions from developers. If you are interested in contributing, please read our contributing guide and feel free to submit a pull request.
+This is an open-source project, and I welcome contributions from developers. If you are interested in contributing, please read our contributing guide and feel free to submit a pull request.
 
 ## License
 
